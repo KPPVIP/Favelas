@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>teste1</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>favela</Item>
+        <Item>stt_mp_race_track</Item>
+        <Item>stt_mp_stunt_track</Item>
+        <Item>stt_mp_stunt_hoardings</Item>
+        <Item>sr_mp_specraces_tubes_stripes</Item>
+        <Item>v_construction</Item>
+        <Item>v_rubbish</Item>
+        <Item>v_bins</Item>
+        <Item>bkr_mp_biker_coke</Item>
+        <Item>lafa2k_barragemfix</Item>
+        <Item>v_fences</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>
